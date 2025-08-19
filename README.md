@@ -8,9 +8,8 @@
 [![AI/ML](https://img.shields.io/badge/AI/ML-YOLOv8-orange?style=for-the-badge&logo=tensorflow)](https://ultralytics.com/)
 [![AR](https://img.shields.io/badge/AR-Enabled-purple?style=for-the-badge&logo=arcore)](https://developers.google.com/ar)
 
-**🏆 Award-winning project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.**
+**🏆 Project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.**
 
-[🚀 Live Demo](#) | [📖 Documentation](#setup-and-installation) | [🤝 Contributing](#contributing)
 
 </div>
 
