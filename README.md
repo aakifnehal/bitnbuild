@@ -36,6 +36,39 @@
 - **📊 Analytics Dashboard**: Comprehensive farm performance metrics
 - **� Secure Authentication**: Social login integration
 
+
+
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏠 Dashboard Overview
+![Dashboard](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/fcabdaa5-184a-4d11-b9d0-01dd90a68b0e)
+
+### 📱 
+<img src="https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/4a0c863c-57c3-4e2c-951e-c0913c18cd22" alt="Mobile Interface" width="300">
+
+### 🤖 
+<img src="https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/a22a4741-e08d-4bfc-ac0b-8d2bc8f136d9" alt="AI Analysis" width="400">
+
+### 📊 
+![Analytics](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/1457ca8c-4ed6-4c20-9a89-cd1a2a83de72)
+
+### 📦 
+![Inventory](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/4bef717f-479b-487c-935a-ed7c36169bcf)
+
+### 🌾 
+![Crop Monitoring](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/3ad2a2a2-86b0-4967-a8ab-730713efcf96)
+
+### 📈 
+![Market Insights](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/9fcc0f4f-c94f-4eaf-80bd-3eb81c18021c)
+
+</div>
+
+---
 ---
 
 ## 🏗️ System Architecture
@@ -235,37 +268,6 @@ class Product(models.Model):
 - AI-powered crop recommendations
 - Market trend analysis
 - Resource optimization suggestions
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 Dashboard Overview
-![Dashboard](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/fcabdaa5-184a-4d11-b9d0-01dd90a68b0e)
-
-### 📱 
-<img src="https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/4a0c863c-57c3-4e2c-951e-c0913c18cd22" alt="Mobile Interface" width="300">
-
-### 🤖 
-<img src="https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/a22a4741-e08d-4bfc-ac0b-8d2bc8f136d9" alt="AI Analysis" width="400">
-
-### 📊 
-![Analytics](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/1457ca8c-4ed6-4c20-9a89-cd1a2a83de72)
-
-### 📦 
-![Inventory](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/4bef717f-479b-487c-935a-ed7c36169bcf)
-
-### 🌾 
-![Crop Monitoring](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/3ad2a2a2-86b0-4967-a8ab-730713efcf96)
-
-### 📈 
-![Market Insights](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/9fcc0f4f-c94f-4eaf-80bd-3eb81c18021c)
-
-</div>
-
----
 
 ## 🎯 Key Benefits
 
